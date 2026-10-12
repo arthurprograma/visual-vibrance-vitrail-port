@@ -1,17 +1,11 @@
-# ⚠️ THIS PACK IS NO LONGER ACTIVELY DEVELOPED ⚠️
+# ⚠️ THIS PACK IS A FORK OF VISUAL VIBRANCE IN ORDER TO PORT IT TO VITRAIL ⚠️
 
-Visual Vibrance is an attempt at recreating the upcoming "Vibrant Visuals" feature which is currently only available on the Bedrock edition of Minecraft.
+This is a fork with the intention of maintaining it for vitrail shaders (a vulkan shader loader)
+i made this fork because the water and light looked ugly when using vitrail shaders, so i asked claude to make it look the same when using
+vitrail shaders, and here we are! 
+this is 100% vibecoded so bugs are most likely expected.
 
-Visual Vibrance is _an alpha_ and since it was forked from my other pack, [Glimmer](https://modrinth.com/shader/glimmer-shaders) in a relatively short period of time, there may be bugs. You can report these to me in [my Discord server](https://discord.gg/4U3nPxTznF) or `#jbritains-shaderpacks` in [the shaderLABS Discord Server](https://discord.gg/RpzWN9S).
-
-## Compatibility
-
-- OpenGL 4.3+ - macOS is _not_ supported, nor is the Raspberry Pi. Most modern GPUs (integrated or dedicated) should work fine.
-- Iris 1.7+, OptiFine is _not_ supported.
-
-
-
-## For Developers
-If you are interested in contributing or assisting in the development of this shaderpack, don't hesitate to make a pull request, as I have only some interest in maintaining this pack, and it was mainly made just to see if I could recreate the look.
-
-With that said, this code is a mess. I am well aware of this fact, and I am not proud of the quality of this code. I also have no desire to sit down and refactor the whole thing.
+# SPECIAL THANKS TO
+- avpbynf (Developer of Vitrail Shaders)
+- jbritain (Developer of Visual Vibrance)
+  
